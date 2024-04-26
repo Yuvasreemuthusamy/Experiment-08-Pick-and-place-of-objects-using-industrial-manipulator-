@@ -81,29 +81,47 @@ and click on the connect icon
 
 3. click on the 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
 
+### PROGRAM
+
+![WhatsApp Image 2024-04-22 at 10 52 37_2c7aabcd](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/bf4084b4-c812-4b12-a99e-53624d5c4769)
 
 
 
+![WhatsApp Image 2024-04-22 at 10 52 37_03da2f47](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/940b592a-2f25-4ed7-a6e2-54d5d1476b16)
 
+
+
+![WhatsApp Image 2024-04-22 at 10 52 37_11784822](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/b286ab27-350b-4168-b502-605763ef518b)
+
+
+
+![WhatsApp Image 2024-04-22 at 10 52 37_981a707c](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/b9021af9-b051-4399-ae42-201860d7b64b)
+
+
+### OUTPUT
+
+![WhatsApp Image 2024-04-22 at 10 52 36_ce1d8738](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/00c8c2b7-d83c-4cb2-bbd7-6518f87af44c)
+
+
+![WhatsApp Image 2024-04-22 at 10 52 36_40b12cc8](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/20acb830-0b7c-4dd3-94c6-618abc25c5c0)
+
+
+![WhatsApp Image 2024-04-22 at 10 52 36_ce03932b](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/364e6968-bf81-42f9-b934-3ef8fafacbdc)
+
+
+![WhatsApp Image 2024-04-22 at 10 52 36_8422a4a4](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/cebabdaf-2434-4418-8607-2456e1635cf7)
+
+![WhatsApp Image 2024-04-22 at 10 52 37_72b2cd79](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/00d3348f-bf03-4f3a-9efc-59d07182d54b)
+
+
+![WhatsApp Image 2024-04-22 at 10 52 37_66c8f18e](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/4bbb95d2-ce77-43b1-9d92-5deb81d5ea41)
+
+
+![WhatsApp Image 2024-04-22 at 10 52 37_58f19196](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/08fd6ef6-c41f-48d0-9055-f7bddb19cdff)
+
+![WhatsApp Image 2024-04-22 at 10 52 37_b5c7831c](https://github.com/Yuvasreemuthusamy/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870887/8eb388c3-baa9-4107-a684-08c492762361)
 
 
 ### Results: 

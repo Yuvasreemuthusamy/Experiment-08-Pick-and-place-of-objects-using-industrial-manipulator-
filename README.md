@@ -1,5 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+###  DATE:27-04-2024
+###  NAME:Yuva Sree M 
+###  ROLL NO :212223230251
+###  DEPARTMENT:AI-DS
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
